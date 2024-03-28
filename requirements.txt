@@ -1,0 +1,4 @@
+Flask
+Flask-Cors==4.0.0aabsl-py==2.0.0
+joblib
+pandas
