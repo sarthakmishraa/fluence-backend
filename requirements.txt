@@ -1,5 +1,6 @@
 Flask
 Flask-Cors==4.0.0
 joblib
+scikit-learn
 pandas
 gunicorn
